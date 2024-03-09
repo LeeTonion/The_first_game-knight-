@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 60972250aa8b0844bbf56f454145db24
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_0"
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 18
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705018a125595b848b790a9d79b5740b
+      internalID: -1098370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_1"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 18
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f9cc7e728c4d143aff2c48366d2ccb
+      internalID: 2011639381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_2"
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 18
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fbdaedafc2f9a47a38886b9fb64972
+      internalID: 437449552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_3"
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 18
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d574344585a47b41b40c1b84ecb724a
+      internalID: -1282608980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_4"
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 18
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58a5f5901efab1449ebd253bf57b993
+      internalID: 1846726006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_5"
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 18
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fd78a4ffb161e4584def64c5480e43
+      internalID: -280739248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_6"
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 18
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a762416fc038e8448a2d149fa9ad9475
+      internalID: 1301976236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_7"
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 18
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5b81f5c01b88c43a96e6f6fd751444
+      internalID: -761476533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_8"
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 18
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79ca0518cd11914d9c483ae1a4c93c5
+      internalID: -1866139457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_9"
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 18
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cc395a6db389d44b8fd31833ad1895
+      internalID: -98105406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_10"
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 18
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfe5ee67143bbc42900209b5c09500e
+      internalID: -1027991061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_11"
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 18
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49746dc62b906fa4d90e082da80746e8
+      internalID: -3551539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_12"
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 18
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b46b092f6551b41bd80f0e3e038454
+      internalID: -58488439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_13"
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 18
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fe7d9f1060e4a4dadbfb7128f39bb9
+      internalID: -790103468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_14"
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 18
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98d17f23b811424d97500e3b714dc1c
+      internalID: 1834377803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_15"
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 18
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb39c0c5144f1b4fb482c2b7bc6eaa3
+      internalID: 799907731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_16"
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 18
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f64338b4fa694e42b010bc307bb33a2
+      internalID: -1631255769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_17"
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 18
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acf35241920db64ab2ca0e24629f814
+      internalID: 851126299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_18"
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 18
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fa1978c09205c479af3110cb62cdc8
+      internalID: 1692181213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_19"
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 18
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb5ffffb2df5b44cab741ab40f03ca1
+      internalID: 794175383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_20"
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 18
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0a8d42fa2b87344935cdcf6c36c784
+      internalID: 1799805111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chi\u1EBFn \u0111\u1EA5u_21"
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 18
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3029cc20f3aa38645b77c0dc41950030
+      internalID: 1627768125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "chi\u1EBFn \u0111\u1EA5u_0": -1098370
+      "chi\u1EBFn \u0111\u1EA5u_1": 2011639381
+      "chi\u1EBFn \u0111\u1EA5u_10": -1027991061
+      "chi\u1EBFn \u0111\u1EA5u_11": -3551539
+      "chi\u1EBFn \u0111\u1EA5u_12": -58488439
+      "chi\u1EBFn \u0111\u1EA5u_13": -790103468
+      "chi\u1EBFn \u0111\u1EA5u_14": 1834377803
+      "chi\u1EBFn \u0111\u1EA5u_15": 799907731
+      "chi\u1EBFn \u0111\u1EA5u_16": -1631255769
+      "chi\u1EBFn \u0111\u1EA5u_17": 851126299
+      "chi\u1EBFn \u0111\u1EA5u_18": 1692181213
+      "chi\u1EBFn \u0111\u1EA5u_19": 794175383
+      "chi\u1EBFn \u0111\u1EA5u_2": 437449552
+      "chi\u1EBFn \u0111\u1EA5u_20": 1799805111
+      "chi\u1EBFn \u0111\u1EA5u_21": 1627768125
+      "chi\u1EBFn \u0111\u1EA5u_3": -1282608980
+      "chi\u1EBFn \u0111\u1EA5u_4": 1846726006
+      "chi\u1EBFn \u0111\u1EA5u_5": -280739248
+      "chi\u1EBFn \u0111\u1EA5u_6": 1301976236
+      "chi\u1EBFn \u0111\u1EA5u_7": -761476533
+      "chi\u1EBFn \u0111\u1EA5u_8": -1866139457
+      "chi\u1EBFn \u0111\u1EA5u_9": -98105406
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
