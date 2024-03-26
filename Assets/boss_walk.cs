@@ -4,7 +4,7 @@ using UnityEditor;
 using UnityEngine;
 
 public class boss_walk : StateMachineBehaviour
-{ Transform player;
+{   Transform player;
     Rigidbody2D rb; 
     public float Speed = 1f;
     boss boss;

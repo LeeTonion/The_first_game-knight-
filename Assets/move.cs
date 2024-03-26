@@ -18,6 +18,7 @@ public class move : MonoBehaviour
    
    public void flip()
     {
+        
         if (a && trai_phai < 0 || !a && trai_phai > 0)
         {
             a = !a;
